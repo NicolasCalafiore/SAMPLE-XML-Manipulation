@@ -1,1 +1,12 @@
-Program I made so I can refer back to see what I need to do to successfully manipualate the data of an XML
+# XML Manipulation
+## What the program is about (Version Independant)
+A program I used to refer back to whenever I need to interact with XML files in Java
+
+#### Created: Late 2021
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## About Version One
+ - Created Around Mid 2018
+ - Java
+ - No GUI
+ - Demos how to interact with an XML file
